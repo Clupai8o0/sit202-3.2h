@@ -1,2 +1,5 @@
 server.key
 server.crt
+
+client.crt
+client.key
